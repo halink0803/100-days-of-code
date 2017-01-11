@@ -20,3 +20,10 @@
 https://halink0803.github.io
 
 ### Day 2: January 10, Tuesday
+
+**Today's Progress**: Adding mail subscribe feature to my github page using mailchimp
+
+**Thoughts** Mailchimp is very easy to use. I don't know how efficient it is, but so far my expericence with it is very good.
+
+**Link(s) to work**
+https://halink0803.github.io
