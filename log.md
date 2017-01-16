@@ -27,3 +27,30 @@ https://halink0803.github.io
 
 **Link(s) to work**
 https://halink0803.github.io
+
+### Day 3: January 11, Wednesday
+
+**Today's Progress**: Adding Hugo dynamic search feature to blog using Lunr and Gulp
+
+**Thoughts** 
+
+**Link(s) to work**
+https://halink0803.github.io
+
+### Day 4: January 12, Thursday
+
+**Today's Progress**: Adding Hugo multilanguages (ENG, VI)
+
+**Thoughts** 
+
+**Link(s) to work**
+https://halink0803.github.io
+
+### Day 4: January 12, Thursday
+
+**Today's Progress**: Unsplash API
+
+**Thoughts** 
+
+**Link(s) to work**
+https://halink0803.github.io
