@@ -46,7 +46,7 @@ https://halink0803.github.io
 **Link(s) to work**
 https://halink0803.github.io
 
-### Day 5: January 13, Thursday
+### Day 5: January 13, Friday
 
 **Today's Progress**: Unsplash API
 
@@ -55,11 +55,21 @@ https://halink0803.github.io
 **Link(s) to work**
 https://halink0803.github.io
 
-### Day 6: January 17, Thursday
+### Day 6: January 17, Tuesday
 
-**Today's Progress**: Firs step create Hugo Desktop App Management
+**Today's Progress**: First step create Hugo Desktop App Management
 
 **Thoughts** : Electron is a great tool, I can see many software come from electron. However, just first step with a idea and nothing more.
+
+**Link(s) to work**
+https://github.com/halink0803/hugo-desktop-app
+
+
+### Day 7: January 20, Friday
+
+**Today's Progress**: shelljs
+
+**Thoughts** : 
 
 **Link(s) to work**
 https://github.com/halink0803/hugo-desktop-app
